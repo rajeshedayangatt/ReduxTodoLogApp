@@ -1,2 +1,0 @@
-# ReduxTodoLogApp
-Created with CodeSandbox
